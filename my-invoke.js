@@ -639,9 +639,9 @@
     if (!(window.atAsyncContainers instanceof Object && window.atAsyncContainers.constructor === Object)) {
       window.atAsyncContainers = {};
     }
-    if (window.atOptions instanceof Object && window.atOptions.constructor === Object) {
-      _0xd7f297(window.atOptions);
-      delete window.atOptions;
+    if (window.atOptions1 instanceof Object && window.atOptions1.constructor === Object) {
+      _0xd7f297(window.atOptions1);
+      delete window.atOptions1;
     } else {
       if (window.atAsyncOptions instanceof Array && window.atAsyncOptions.constructor === Array) {
         var _0x2b4fa = 0x0;
