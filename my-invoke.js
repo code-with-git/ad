@@ -624,7 +624,7 @@
               _0x1656d2();
             };
             _0x57a84c.open("GET", _0x55a556 + "&uuid=" + _0x48e55d);
-            another = _0x57a84c;
+            var another = _0x57a84c;
             another.send();
             _0x57a84c.send();
           });
